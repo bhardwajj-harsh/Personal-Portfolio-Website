@@ -43,4 +43,4 @@ Feel free to reach out to me through:
 
 ## License
 
-This project is open source and available under the [License Name] License. (e.g., MIT License) 
+This project is open source and available under the [License Name] License. (e.g., MIT License)
